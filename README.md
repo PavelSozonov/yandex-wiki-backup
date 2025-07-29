@@ -22,6 +22,7 @@ This project provides a simple, containerised tool to archive an authenticated Y
 - `COOKIE` – Cookie string exported from your browser. Used when `AUTH_METHOD=cookie`.
 - `USERNAME` / `PASSWORD` – Credentials for Yandex Passport. Used when `AUTH_METHOD=credentials`.
 - `OUTPUT_DIR` – Directory where the static site will be written (default: `output`).
+- `IGNORE_SSL_ERRORS` – Set to `true` to allow crawling sites with self-signed certificates.
 
 ### Obtaining Cookies
 

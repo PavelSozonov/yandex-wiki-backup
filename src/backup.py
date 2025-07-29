@@ -80,26 +80,28 @@ class WikiCrawler:
 
 
 def authenticate(context, page, root_url: str) -> None:
-    cookie = os.getenv('COOKIE')
-    username = os.getenv('USERNAME')
-    password = os.getenv('PASSWORD')
-    if cookie:
+    method = os.getenv("AUTH_METHOD", "cookie").lower()
+    cookie = os.getenv("COOKIE")
+    username = os.getenv("USERNAME")
+    password = os.getenv("PASSWORD")
+
+    if method == "cookie" and cookie:
         cookies = []
-        for item in cookie.split(';'):
-            if '=' not in item:
+        for item in cookie.split(";"):
+            if "=" not in item:
                 continue
-            name, value = item.split('=', 1)
+            name, value = item.split("=", 1)
             cookies.append({"name": name.strip(), "value": value.strip(), "url": root_url})
         context.add_cookies(cookies)
         page.goto(root_url)
-    elif username and password:
+    elif method == "credentials" and username and password:
         login_url = f"https://passport.yandex.com/auth?retpath={root_url}"
         page.goto(login_url)
-        page.fill('input[name="login"]', username)
-        page.click('button[type="submit"]')
-        page.fill('input[name="passwd"]', password)
-        page.click('button[type="submit"]')
-        page.wait_for_load_state('networkidle')
+        page.fill("input[name='login']", username)
+        page.click("button[type='submit']")
+        page.fill("input[name='passwd']", password)
+        page.click("button[type='submit']")
+        page.wait_for_load_state("networkidle")
     else:
         page.goto(root_url)
 
@@ -114,7 +116,8 @@ def main() -> None:
 
     with sync_playwright() as p:
         browser = p.firefox.launch(headless=True)
-        context = browser.new_context()
+        ignore_ssl = os.getenv("IGNORE_SSL_ERRORS", "false").lower() in ("1", "true", "yes")
+        context = browser.new_context(ignore_https_errors=ignore_ssl)
         page = context.new_page()
         authenticate(context, page, root_url)
 
