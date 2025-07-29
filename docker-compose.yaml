@@ -5,6 +5,7 @@ services:
       - .env
     volumes:
       - ./output:/app/output
+      - ./src:/app/src:ro  # монтируем исходный код
     command: ["python", "-m", "src.backup"]
 
   viewer:
