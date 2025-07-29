@@ -1,0 +1,5 @@
+playwright>=1.42
+beautifulsoup4>=4.11
+python-dotenv>=1.0
+requests>=2.31
+tqdm>=4.66
