@@ -1,0 +1,15 @@
+services:
+  backup:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./output:/app/output
+    command: ["python", "-m", "src.backup"]
+
+  viewer:
+    image: nginx:alpine
+    volumes:
+      - ./output:/usr/share/nginx/html:ro
+    ports:
+      - "8080:80"
