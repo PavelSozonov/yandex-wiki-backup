@@ -42,12 +42,12 @@ def url_to_local_path(url: str, output_dir: Path, is_page: bool = False) -> Path
         domain_path = 'local'
     
     if is_page:
-        # Для страниц всегда добавляем .html для консистентности
+        # Для страниц создаем структуру директорий с index.html
         if path.endswith('/'):
             path += 'index.html'
         elif not path.endswith('.html'):
-            # Всегда добавляем .html к страницам
-            path = path.rstrip('/') + '.html'
+            # Создаем директорию с index.html внутри
+            path = path.rstrip('/') + '/index.html'
     
     # Строим полный путь
     if path.startswith('/'):
