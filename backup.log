@@ -1,0 +1,1681 @@
+backup-1  | 🌐 Wiki URL: https://wiki.yandex.ru
+backup-1  | 📁 Папка вывода: output
+backup-1  | 🔒 Игнорировать SSL: True
+backup-1  | 🔐 Аутентификация методом: cookie
+backup-1  |   ✅ Добавлено cookie: 30 шт.
+backup-1  | 🔧 Создаем APIRequestContext с cookie и заголовками...
+backup-1  |   ✅ Добавлено 43 cookies в APIRequestContext
+backup-1  | 🔄 URL изменился после авторизации: https://wiki.yandex.ru/
+backup-1  | 🚀 Начинаем обход с https://wiki.yandex.ru
+backup-1  | 📁 Результат будет сохранен в output
+backup-1  | ♻️  Существующие файлы будут перезаписаны
+backup-1  | 
+backup-1  | 📄 Обрабатывается (1/1000): https://wiki.yandex.ru
+backup-1  |   📥 Загружается: https://mc.yandex.ru/watch/42770554
+backup-1  |   ✅ Сохранен: 3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../assets/3d4905fa4d.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru/watch/51465824
+backup-1  |   ✅ Сохранен: 34755b03f7.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru/metrika/tag.js
+backup-1  |   🎨 Обработан JS: https://mc.yandex.ru/metrika/tag.js
+backup-1  |   ✅ Сохранен: 47082a876a.js
+backup-1  |   📥 Загружается: https://forms.yandex.ru/_static/embed.js
+backup-1  |   🎨 Обработан JS: https://forms.yandex.ru/_static/embed.js
+backup-1  |   ✅ Сохранен: fb22158aa1.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/runtime.2d5a757b.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/runtime.2d5a757b.js
+backup-1  |   ✅ Сохранен: runtime.2d5a757b.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/redux.8f397c33.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/redux.8f397c33.js
+backup-1  |   ✅ Сохранен: redux.8f397c33.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/vendors.73063dac.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/vendors.73063dac.js
+backup-1  |   ✅ Сохранен: vendors.73063dac.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/6462.d9510c5d.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/6462.d9510c5d.js
+backup-1  |   ✅ Сохранен: 6462.d9510c5d.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/7231.17dc5fae.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/7231.17dc5fae.js
+backup-1  |   ✅ Сохранен: 7231.17dc5fae.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/8460.530b0d6f.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/8460.530b0d6f.js
+backup-1  |   ✅ Сохранен: 8460.530b0d6f.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/2383.481f72f0.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/2383.481f72f0.js
+backup-1  |   ✅ Сохранен: 2383.481f72f0.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/6995.cd8cbac2.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/6995.cd8cbac2.js
+backup-1  |   ✅ Сохранен: 6995.cd8cbac2.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/1404.1d284deb.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/1404.1d284deb.js
+backup-1  |   ✅ Сохранен: 1404.1d284deb.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/main-light@desktop.de88c053.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/main-light@desktop.de88c053.js
+backup-1  |   ✅ Сохранен: main-light@desktop.de88c053.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/prosemirror.a79c5735.chunk.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/prosemirror.a79c5735.chunk.js
+backup-1  |   ✅ Сохранен: prosemirror.a79c5735.chunk.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/6817.22d93059.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/6817.22d93059.js
+backup-1  |   ✅ Сохранен: 6817.22d93059.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/4624.a2bd7adf.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/4624.a2bd7adf.js
+backup-1  |   ✅ Сохранен: 4624.a2bd7adf.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/9288.63815f82.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/9288.63815f82.js
+backup-1  |   ✅ Сохранен: 9288.63815f82.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/3410.9dff6bfa.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/3410.9dff6bfa.js
+backup-1  |   ✅ Сохранен: 3410.9dff6bfa.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/3529.cbfa973b.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/3529.cbfa973b.js
+backup-1  |   ✅ Сохранен: 3529.cbfa973b.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/1366.2c54b08d.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/1366.2c54b08d.js
+backup-1  |   ✅ Сохранен: 1366.2c54b08d.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/5732.66843752.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/5732.66843752.js
+backup-1  |   ✅ Сохранен: 5732.66843752.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/3593.131602b9.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/3593.131602b9.js
+backup-1  |   ✅ Сохранен: 3593.131602b9.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/885.d39a7329.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/885.d39a7329.js
+backup-1  |   ✅ Сохранен: 885.d39a7329.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/2617.b81e634f.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/2617.b81e634f.js
+backup-1  |   ✅ Сохранен: 2617.b81e634f.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/9896.cb81112f.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/9896.cb81112f.js
+backup-1  |   ✅ Сохранен: 9896.cb81112f.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/2829.dfc5f07d.chunk.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/2829.dfc5f07d.chunk.js
+backup-1  |   ✅ Сохранен: 2829.dfc5f07d.chunk.js
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/aside-nav.f92939df.chunk.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/aside-nav.f92939df.chunk.js
+backup-1  |   ✅ Сохранен: aside-nav.f92939df.chunk.js
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/new/favicon.png
+backup-1  |   ✅ Сохранен: 5e1832328c.png
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-regular.woff2
+backup-1  |   ✅ Сохранен: f7e3cbd694.woff2
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-bold.woff2
+backup-1  |   ✅ Сохранен: 660824890c.woff2
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-regular-italic.woff2
+backup-1  |   ✅ Сохранен: 71918dc7c8.woff2
+backup-1  |   📥 Загружается: https://yandex.ru
+backup-1  |   ✅ Сохранен: e1e55201f3.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/new/favicon.svg
+backup-1  |   ✅ Сохранен: d763c2bcb5.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/desktop/8fe9dec0ce8c5db4e663.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/7945f31ef317d7dcd08e4499818650c6.svg
+backup-1  |   ✅ Сохранен: 4cd2061f1a.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/9df37c61a8a31fcb362a5cedb0027bc7.svg
+backup-1  |   ✅ Сохранен: 6bf9ed6717.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/6f1e918e7e36f1d471cea0fee99b170c.svg
+backup-1  |   ✅ Сохранен: 40a7f5da51.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/39399defb393734fae029be7df278622.svg
+backup-1  |   ✅ Сохранен: 0307d238e8.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/2c2b690794dea7ccda7d83f1ea7b3fe3.svg
+backup-1  |   ✅ Сохранен: 1c998b1757.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/23da041945bbfd1a7318ad56f6f11ff0.svg
+backup-1  |   ✅ Сохранен: a5ab9be905.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/457faa6c6b55aa4e19e9308a8b2849dc.svg
+backup-1  |   ✅ Сохранен: a3e61395c6.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/d4b9320698d8c56834a0e33904988aa6.svg
+backup-1  |   ✅ Сохранен: 5c4e760715.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/582ccc4f8cf2b0ceedc808a60b3949b9.svg
+backup-1  |   ✅ Сохранен: 1e0a66f662.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/3d8f381d600ecde73bf5df32fa53bab0.svg
+backup-1  |   ✅ Сохранен: 7ce90240a8.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/eee088048b19bb1f3396aa7fcf78ae64.svg
+backup-1  |   ✅ Сохранен: e3fd8c511f.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/9483f5e6fb8d521731413307a31871a5.svg
+backup-1  |   ✅ Сохранен: 3acbe17468.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/ec48242adbfdb2087c13af282f2bd499.ico
+backup-1  |   ✅ Сохранен: 7c9e235e9d.ico
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/5284018f92a93da933875a637c8b2e8a.png
+backup-1  |   ✅ Сохранен: 8cd4d4fe80.png
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/e0a876b12bd9b17c2087b71bd841b601.png
+backup-1  |   ✅ Сохранен: 324c394a8d.png
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/3d4b9723856c2acd39b394fbfe62c7f3.png
+backup-1  |   ✅ Сохранен: 85219ccfb3.png
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/0e58692ce7404c322c4c96b5ebd4c03c.ico
+backup-1  |   ✅ Сохранен: 17958974a0.ico
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/f675029b76828f7ee3e47cbbb8bab3ff.ico
+backup-1  |   ✅ Сохранен: 751561b15e.ico
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/5e9980f2442e1d34dfbe65581a93da44.ico
+backup-1  |   ✅ Сохранен: 94cda1c6b0.ico
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/66f126507884cac6657e8f238b993b74.png
+backup-1  |   ✅ Сохранен: 4740b92356.png
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/3046037cd9f72499b31c5e10da7655d5.ico
+backup-1  |   ✅ Сохранен: 070f3b55c9.ico
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/c224f0399b7a7e0fb93941ce760dab9e.svg
+backup-1  |   ✅ Сохранен: 08953a266b.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/83f566c2f593ce575e40a97358974789.svg
+backup-1  |   ✅ Сохранен: 33b356d31d.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/woof/_/18196369b1efc9074e430775877585bc.png
+backup-1  |   ✅ Сохранен: bd9d748ab8.png
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/woof/_/desktop/8fe9dec0ce8c5db4e663.css
+backup-1  |   ✅ Сохранен: b3e16804ca.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/9808.722e405f.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-light.woff2
+backup-1  |   ✅ Сохранен: 18af0821f2.woff2
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-light.woff
+backup-1  |   ✅ Сохранен: 5838c4b80f.woff
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-light-italic.woff2
+backup-1  |   ✅ Сохранен: b443535e4b.woff2
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-light-italic.woff
+backup-1  |   ✅ Сохранен: 7f4665e854.woff
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-regular.woff
+backup-1  |   ✅ Сохранен: 5497e42edc.woff
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-regular-italic.woff
+backup-1  |   ✅ Сохранен: b173398c57.woff
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-medium.woff2
+backup-1  |   ✅ Сохранен: 18bdb95714.woff2
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-medium.woff
+backup-1  |   ✅ Сохранен: 1dc20fb55d.woff
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-medium-italic.woff2
+backup-1  |   ✅ Сохранен: 21965b0538.woff2
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-medium-italic.woff
+backup-1  |   ✅ Сохранен: dac1aa81a8.woff
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-bold.woff
+backup-1  |   ✅ Сохранен: 8acbcbfea6.woff
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-bold-italic.woff2
+backup-1  |   ✅ Сохранен: 650636eaea.woff2
+backup-1  |   📥 Загружается: https://yastatic.net/s3/home/fonts/ys/3/text-bold-italic.woff
+backup-1  |   ✅ Сохранен: 137e9118cc.woff
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/9808.722e405f.css
+backup-1  |   ✅ Сохранен: 9808.722e405f.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/5094.834c1f68.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/5094.834c1f68.css
+backup-1  |   ✅ Сохранен: 5094.834c1f68.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/8258.1dbb3895.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/8258.1dbb3895.css
+backup-1  |   ✅ Сохранен: 8258.1dbb3895.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2212.5a3ee534.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2212.5a3ee534.css
+backup-1  |   ✅ Сохранен: 2212.5a3ee534.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/297.fb7b4954.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/297.fb7b4954.css
+backup-1  |   ✅ Сохранен: 297.fb7b4954.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/351.eaae1c7d.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/351.eaae1c7d.css
+backup-1  |   ✅ Сохранен: 351.eaae1c7d.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/3828.46b0054a.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/_/7a9724b22f5c6c1ba41b116c6851cd40.svg
+backup-1  |   ✅ Сохранен: a94611deed.svg
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/3828.46b0054a.css
+backup-1  |   ✅ Сохранен: 3828.46b0054a.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/248.e8c9786d.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/248.e8c9786d.css
+backup-1  |   ✅ Сохранен: 248.e8c9786d.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/8029.ccc6a9f1.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/8029.ccc6a9f1.css
+backup-1  |   ✅ Сохранен: 8029.ccc6a9f1.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2332.ceebb900.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2332.ceebb900.css
+backup-1  |   ✅ Сохранен: 2332.ceebb900.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/9234.1a6624f6.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/9234.1a6624f6.css
+backup-1  |   ✅ Сохранен: 9234.1a6624f6.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6859.44a8b7d1.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6859.44a8b7d1.css
+backup-1  |   ✅ Сохранен: 6859.44a8b7d1.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2053.72154147.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2053.72154147.css
+backup-1  |   ✅ Сохранен: 2053.72154147.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/4854.876a61ed.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/4854.876a61ed.css
+backup-1  |   ✅ Сохранен: 4854.876a61ed.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6564.d27d5bb2.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6564.d27d5bb2.css
+backup-1  |   ✅ Сохранен: 6564.d27d5bb2.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2195.bf68e7bf.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2195.bf68e7bf.css
+backup-1  |   ✅ Сохранен: 2195.bf68e7bf.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/3258.9bd087f9.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/3258.9bd087f9.css
+backup-1  |   ✅ Сохранен: 3258.9bd087f9.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6984.bd198716.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6984.bd198716.css
+backup-1  |   ✅ Сохранен: 6984.bd198716.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/9048.14f17558.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/9048.14f17558.css
+backup-1  |   ✅ Сохранен: 9048.14f17558.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/9550.23954479.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/9550.23954479.css
+backup-1  |   ✅ Сохранен: 9550.23954479.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2478.30a86b1e.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2478.30a86b1e.css
+backup-1  |   ✅ Сохранен: 2478.30a86b1e.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/8380.3bb580b8.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/8380.3bb580b8.css
+backup-1  |   ✅ Сохранен: 8380.3bb580b8.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/5929.5748015a.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/5929.5748015a.css
+backup-1  |   ✅ Сохранен: 5929.5748015a.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6737.1c4cc267.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6737.1c4cc267.css
+backup-1  |   ✅ Сохранен: 6737.1c4cc267.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2746.a2ab0d82.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2746.a2ab0d82.css
+backup-1  |   ✅ Сохранен: 2746.a2ab0d82.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/106.566cdcd5.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/106.566cdcd5.css
+backup-1  |   ✅ Сохранен: 106.566cdcd5.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6523.a0cca326.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6523.a0cca326.css
+backup-1  |   ✅ Сохранен: 6523.a0cca326.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/7158.ab697a0f.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/7158.ab697a0f.css
+backup-1  |   ✅ Сохранен: 7158.ab697a0f.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/3951.33628b7e.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/3951.33628b7e.css
+backup-1  |   ✅ Сохранен: 3951.33628b7e.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/3734.51d04617.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/3734.51d04617.css
+backup-1  |   ✅ Сохранен: 3734.51d04617.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6337.f82b106d.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6337.f82b106d.css
+backup-1  |   ✅ Сохранен: 6337.f82b106d.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/480.eb5f3d15.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/assets/images/template-stub-image-1-light.6615fd97.svg
+backup-1  |   ✅ Сохранен: d3e4b52304.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/assets/images/template-stub-image-1-dark.204650c3.svg
+backup-1  |   ✅ Сохранен: 9847d5fe9f.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/assets/images/template-stub-image-2-light.274120ff.svg
+backup-1  |   ✅ Сохранен: 306617ebb3.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/assets/images/template-stub-image-2-dark.c7234e23.svg
+backup-1  |   ✅ Сохранен: 629a56f65b.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/assets/images/template-stub-image-3-light.fe03efa4.svg
+backup-1  |   ✅ Сохранен: 5b7a0a7602.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/assets/images/template-stub-image-3-dark.c1c187e5.svg
+backup-1  |   ✅ Сохранен: a79058f339.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/assets/images/template-stub-image-4-light.cf2fef36.svg
+backup-1  |   ✅ Сохранен: a966ca9291.svg
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/assets/images/template-stub-image-4-dark.33a8af7d.svg
+backup-1  |   ✅ Сохранен: 670d5f0922.svg
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/480.eb5f3d15.css
+backup-1  |   ✅ Сохранен: 480.eb5f3d15.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2236.7bf1c165.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2236.7bf1c165.css
+backup-1  |   ✅ Сохранен: 2236.7bf1c165.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/5095.f12e2d07.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/5095.f12e2d07.css
+backup-1  |   ✅ Сохранен: 5095.f12e2d07.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/1537.971eb90c.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/1537.971eb90c.css
+backup-1  |   ✅ Сохранен: 1537.971eb90c.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/1235.c7a8d4fc.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/1235.c7a8d4fc.css
+backup-1  |   ✅ Сохранен: 1235.c7a8d4fc.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/9184.28479cc1.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/9184.28479cc1.css
+backup-1  |   ✅ Сохранен: 9184.28479cc1.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6968.37610df8.chunk.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/6968.37610df8.chunk.css
+backup-1  |   ✅ Сохранен: 6968.37610df8.chunk.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/8686.a490195f.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/8686.a490195f.css
+backup-1  |   ✅ Сохранен: 8686.a490195f.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/aside-nav.cbf0adbb.chunk.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/assets/images/banner.20091ff7.png
+backup-1  |   ✅ Сохранен: 8560433be0.png
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/aside-nav.cbf0adbb.chunk.css
+backup-1  |   ✅ Сохранен: aside-nav.cbf0adbb.chunk.css
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/.html
+backup-1  |   📊 Ассетов: 86, Ссылок: 39, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 39
+backup-1  | 
+backup-1  | 📄 Обрабатывается (2/1000): https://wiki.yandex.ru/homepage
+backup-1  |   📥 Загружается: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle
+backup-1  |   ✅ Сохранен: ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../assets/ba0f119227.bin
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/.avatar/null
+backup-1  |   ✅ Сохранен: feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2994.ba2c5a2e.chunk.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/2994.ba2c5a2e.chunk.css
+backup-1  |   ✅ Сохранен: 2994.ba2c5a2e.chunk.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/nav-tree.6c6f9612.chunk.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/nav-tree.6c6f9612.chunk.css
+backup-1  |   ✅ Сохранен: nav-tree.6c6f9612.chunk.css
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/css/167.98641d22.chunk.css
+backup-1  |   🎨 Обработан CSS: https://yastatic.net/s3/cloud/wiki/static/freeze/css/167.98641d22.chunk.css
+backup-1  |   ✅ Сохранен: 167.98641d22.chunk.css
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 43, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 43
+backup-1  | 
+backup-1  | 📄 Обрабатывается (3/1000): https://wiki.yandex.ru/homepage/9d6d96b83643
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../assets/ba0f119227.bin
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/.avatar/ajen47g03gpg3oe05vot
+backup-1  |   ✅ Сохранен: e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/9d6d96b83643.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 17, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 17
+backup-1  | 
+backup-1  | 📄 Обрабатывается (4/1000): https://wiki.yandex.ru/homepage/9d6d96b83643/lending
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Изображение: /homepage/9d6d96b83643/lending/.files/image.png -> https://wiki.yandex.ru/homepage/9d6d96b83643/lending/.files/image.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/9d6d96b83643/lending/.files/image.png
+backup-1  |   ✅ Сохранен: 8f12d7fae5.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/9d6d96b83643/lending/.files/image.png -> ../../../assets/8f12d7fae5.png
+backup-1  |   🖼️  Изображение: /homepage/9d6d96b83643/lending/.files/image-1.png -> https://wiki.yandex.ru/homepage/9d6d96b83643/lending/.files/image-1.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/9d6d96b83643/lending/.files/image-1.png
+backup-1  |   ✅ Сохранен: aa8e0f3700.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/9d6d96b83643/lending/.files/image-1.png -> ../../../assets/aa8e0f3700.png
+backup-1  |   🖼️  Изображение: /homepage/9d6d96b83643/lending/.files/image-2.png -> https://wiki.yandex.ru/homepage/9d6d96b83643/lending/.files/image-2.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/9d6d96b83643/lending/.files/image-2.png
+backup-1  |   ✅ Сохранен: d1035cf237.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/9d6d96b83643/lending/.files/image-2.png -> ../../../assets/d1035cf237.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/9d6d96b83643/lending.html
+backup-1  |   📊 Ассетов: 81, Ссылок: 6, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 6
+backup-1  | 
+backup-1  | 📄 Обрабатывается (5/1000): https://wiki.yandex.ru/homepage/9d6d96b83643/texnicheskaja-chast
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/9d6d96b83643/texnicheskaja-chast.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 20, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 20
+backup-1  | 
+backup-1  | 📄 Обрабатывается (6/1000): https://wiki.yandex.ru/homepage/952ecb9ac5b6
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/nav-tree.9a8b36ec.chunk.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/nav-tree.9a8b36ec.chunk.js
+backup-1  |   ✅ Сохранен: nav-tree.9a8b36ec.chunk.js
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/952ecb9ac5b6.html
+backup-1  |   📊 Ассетов: 75, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (7/1000): https://wiki.yandex.ru/homepage/952ecb9ac5b6/analitika
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/952ecb9ac5b6/analitika.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 19, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 19
+backup-1  | 
+backup-1  | 📄 Обрабатывается (8/1000): https://wiki.yandex.ru/homepage/abbreviatury-i-sokrashhenija
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/abbreviatury-i-sokrashhenija.html
+backup-1  |   📊 Ассетов: 72, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (9/1000): https://wiki.yandex.ru/homepage/634501725710
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/634501725710.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 17, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 17
+backup-1  | 
+backup-1  | 📄 Обрабатывается (10/1000): https://wiki.yandex.ru/homepage/634501725710/dokumentacija-dlja-dizajjnerov
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/.avatar/aje1142gmkje0kn68k9b
+backup-1  |   ✅ Сохранен: 3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/634501725710/dokumentacija-dlja-dizajjnerov.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 22, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 22
+backup-1  | 
+backup-1  | 📄 Обрабатывается (11/1000): https://wiki.yandex.ru/homepage/634501725710/rukovodstvo-polzovatelja
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/634501725710/rukovodstvo-polzovatelja.html
+backup-1  |   📊 Ассетов: 75, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (12/1000): https://wiki.yandex.ru/homepage/634501725710/sod-staroe
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/634501725710/sod-staroe.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 22, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 22
+backup-1  | 
+backup-1  | 📄 Обрабатывается (13/1000): https://wiki.yandex.ru/homepage/634501725710/project-docs-screen
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/634501725710/project-docs-screen.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 22, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 22
+backup-1  | 
+backup-1  | 📄 Обрабатывается (14/1000): https://wiki.yandex.ru/homepage/vstrechi
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/vstrechi.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 17, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 17
+backup-1  | 
+backup-1  | 📄 Обрабатывается (15/1000): https://wiki.yandex.ru/homepage/vstrechi/vnutrennie
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/vstrechi/vnutrennie.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 19, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 19
+backup-1  | 
+backup-1  | 📄 Обрабатывается (16/1000): https://wiki.yandex.ru/homepage/631bb28c22ea
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../assets/ba0f119227.bin
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/.avatar/aje65vk8u9i3g8cianjg
+backup-1  |   ✅ Сохранен: 2b6636892e.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje65vk8u9i3g8cianjg -> ../../assets/2b6636892e.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje65vk8u9i3g8cianjg -> ../../assets/2b6636892e.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/631bb28c22ea.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 17, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 17
+backup-1  | 
+backup-1  | 📄 Обрабатывается (17/1000): https://wiki.yandex.ru/homepage/631bb28c22ea/design-system
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje65vk8u9i3g8cianjg -> ../../../assets/2b6636892e.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje65vk8u9i3g8cianjg -> ../../../assets/2b6636892e.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/631bb28c22ea/design-system.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 6, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 6
+backup-1  | 
+backup-1  | 📄 Обрабатывается (18/1000): https://wiki.yandex.ru/homepage/struktura-proektov
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 9, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 9
+backup-1  | 
+backup-1  | 📄 Обрабатывается (19/1000): https://wiki.yandex.ru/homepage/struktura-proektov/celi-i-zadachi
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/celi-i-zadachi.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 30, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 30
+backup-1  | 
+backup-1  | 📄 Обрабатывается (20/1000): https://wiki.yandex.ru/homepage/struktura-proektov/10.-matrica-raspredelenija-otvetstvennosti
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/10.-matrica-raspredelenija-otvetstvennosti
+backup-1  |   📊 Ассетов: 77, Ссылок: 6, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 6
+backup-1  | 
+backup-1  | 📄 Обрабатывается (21/1000): https://wiki.yandex.ru/homepage/struktura-proektov/11.-plan-upravlenija-kommunikacijami-programmy
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/11.-plan-upravlenija-kommunikacijami-programmy
+backup-1  |   📊 Ассетов: 77, Ссылок: 30, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 30
+backup-1  | 
+backup-1  | 📄 Обрабатывается (22/1000): https://wiki.yandex.ru/homepage/struktura-proektov/12.-reguljarnyjj-otchet-o-xode-i-rezultatax-progra
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/12.-reguljarnyjj-otchet-o-xode-i-rezultatax-progra
+backup-1  |   📊 Ассетов: 77, Ссылок: 30, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 30
+backup-1  | 
+backup-1  | 📄 Обрабатывается (23/1000): https://wiki.yandex.ru/homepage/struktura-proektov/terminy-standarty-i-svjazannye-dokumenty
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/terminy-standarty-i-svjazannye-dokumenty.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 6, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 6
+backup-1  | 
+backup-1  | 📄 Обрабатывается (24/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 42, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 42
+backup-1  | 
+backup-1  | 📄 Обрабатывается (25/1000): https://wiki.yandex.ru/homepage/struktura-proektov/ogranichenija-i-dopushhenija
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/ogranichenija-i-dopushhenija.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 30, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 30
+backup-1  | 
+backup-1  | 📄 Обрабатывается (26/1000): https://wiki.yandex.ru/homepage/struktura-proektov/obem-programmy
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/obem-programmy.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 6, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 6
+backup-1  | 
+backup-1  | 📄 Обрабатывается (27/1000): https://wiki.yandex.ru/homepage/struktura-proektov/6.-plan-programmy-po-vexam-soderzhanie-rezultaty-s
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/6.-plan-programmy-po-vexam-soderzhanie-rezultaty-s
+backup-1  |   📊 Ассетов: 77, Ссылок: 30, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 30
+backup-1  | 
+backup-1  | 📄 Обрабатывается (28/1000): https://wiki.yandex.ru/homepage/struktura-proektov/7.-riski
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/8998.36417d23.chunk.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/8998.36417d23.chunk.js
+backup-1  |   ✅ Сохранен: 8998.36417d23.chunk.js
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/7.-riski
+backup-1  |   📊 Ассетов: 78, Ссылок: 4, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 4
+backup-1  | 
+backup-1  | 📄 Обрабатывается (29/1000): https://wiki.yandex.ru/homepage/struktura-proektov/7.-upravlenie-izmenenijami
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/7.-upravlenie-izmenenijami
+backup-1  |   📊 Ассетов: 75, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (30/1000): https://wiki.yandex.ru/homepage/struktura-proektov/9.-organizacionnaja-struktura-programmy
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/9.-organizacionnaja-struktura-programmy
+backup-1  |   📊 Ассетов: 77, Ссылок: 30, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 30
+backup-1  | 
+backup-1  | 📄 Обрабатывается (31/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 17, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 17
+backup-1  | 
+backup-1  | 📄 Обрабатывается (32/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/mvp
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Изображение: /homepage/onbording-chlenov-komandy/mvp/.files/image.png -> https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/mvp/.files/image.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/mvp/.files/image.png
+backup-1  |   ✅ Сохранен: cc0c89c59f.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/onbording-chlenov-komandy/mvp/.files/image.png -> ../../../assets/cc0c89c59f.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy/mvp.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 23, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 23
+backup-1  | 
+backup-1  | 📄 Обрабатывается (33/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/dokumentacija-dlja-razrabotchikov
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy/dokumentacija-dlja-razrabotchikov.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 23, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 23
+backup-1  | 
+backup-1  | 📄 Обрабатывается (34/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/processy
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy/processy.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 23, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 23
+backup-1  | 
+backup-1  | 📄 Обрабатывается (35/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/platforma
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy/platforma.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 23, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 23
+backup-1  | 
+backup-1  | 📄 Обрабатывается (36/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/produkt-proektirovanie
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy/produkt-proektirovanie.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 23, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 23
+backup-1  | 
+backup-1  | 📄 Обрабатывается (37/1000): https://wiki.yandex.ru/homepage/processy
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/processy.html
+backup-1  |   📊 Ассетов: 74, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (38/1000): https://wiki.yandex.ru/homepage/processy/doski-proekta
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Изображение: /homepage/processy/doski-proekta/.files/12313.jpeg -> https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313.jpeg
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313.jpeg
+backup-1  |   ✅ Сохранен: c2b41e34b0.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/processy/doski-proekta/.files/12313.jpeg -> ../../../assets/c2b41e34b0.jpeg
+backup-1  |   🖼️  Изображение: /homepage/processy/doski-proekta/.files/12313-1.jpeg -> https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-1.jpeg
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-1.jpeg
+backup-1  |   ✅ Сохранен: f0a00d6bfd.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/processy/doski-proekta/.files/12313-1.jpeg -> ../../../assets/f0a00d6bfd.jpeg
+backup-1  |   🖼️  Изображение: /homepage/processy/doski-proekta/.files/12313-5.jpeg -> https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-5.jpeg
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-5.jpeg
+backup-1  |   ✅ Сохранен: 1b154beee6.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/processy/doski-proekta/.files/12313-5.jpeg -> ../../../assets/1b154beee6.jpeg
+backup-1  |   🖼️  Изображение: /homepage/processy/doski-proekta/.files/12313-3.jpeg -> https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-3.jpeg
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-3.jpeg
+backup-1  |   ✅ Сохранен: aa8b15b7c6.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/processy/doski-proekta/.files/12313-3.jpeg -> ../../../assets/aa8b15b7c6.jpeg
+backup-1  |   🖼️  Изображение: /homepage/processy/doski-proekta/.files/12313-4.jpeg -> https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-4.jpeg
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-4.jpeg
+backup-1  |   ✅ Сохранен: 2d540f0fe9.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/processy/doski-proekta/.files/12313-4.jpeg -> ../../../assets/2d540f0fe9.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/processy/doski-proekta.html
+backup-1  |   📊 Ассетов: 83, Ссылок: 19, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 19
+backup-1  | 
+backup-1  | 📄 Обрабатывается (39/1000): https://wiki.yandex.ru/homepage/ssylki-proekta
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/ssylki-proekta.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 18, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 18
+backup-1  | 
+backup-1  | 📄 Обрабатывается (40/1000): https://wiki.yandex.ru/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/index.html
+backup-1  |   📊 Ассетов: 76, Ссылок: 4, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 4
+backup-1  | 
+backup-1  | 📄 Обрабатывается (41/1000): https://wiki.yandex.ru/users/pavel-s-sozonov
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../assets/ba0f119227.bin
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/.avatar/ajel1eeiou6t9ektq8oe
+backup-1  |   ✅ Сохранен: 8182be8dd4.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajel1eeiou6t9ektq8oe -> ../../assets/8182be8dd4.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajel1eeiou6t9ektq8oe -> ../../assets/8182be8dd4.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/users/pavel-s-sozonov.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 6, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 6
+backup-1  | 
+backup-1  | 📄 Обрабатывается (42/1000): https://wiki.yandex.ru/homepage/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 1, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (43/1000): https://wiki.yandex.ru/users/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/users/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (44/1000): https://wiki.yandex.ru/homepage/abbreviatury-i-sokrashhenija/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/abbreviatury-i-sokrashhenija/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 9, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 9
+backup-1  | 
+backup-1  | 📄 Обрабатывается (45/1000): https://wiki.yandex.ru/homepage/ssylki-proekta/
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/ssylki-proekta/index.html
+backup-1  |   📊 Ассетов: 72, Ссылок: 1, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (46/1000): https://wiki.yandex.ru/homepage/952ecb9ac5b6/
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/952ecb9ac5b6/index.html
+backup-1  |   📊 Ассетов: 76, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (47/1000): https://wiki.yandex.ru/homepage/9d6d96b83643/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/9d6d96b83643/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 6, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 6
+backup-1  | 
+backup-1  | 📄 Обрабатывается (48/1000): https://wiki.yandex.ru/homepage/vstrechi/
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/vstrechi/index.html
+backup-1  |   📊 Ассетов: 75, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (49/1000): https://wiki.yandex.ru/homepage/processy/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/processy/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 4, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 4
+backup-1  | 
+backup-1  | 📄 Обрабатывается (50/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy/index.html
+backup-1  |   📊 Ассетов: 72, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (51/1000): https://wiki.yandex.ru/homepage/struktura-proektov/
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://yastatic.net/s3/cloud/wiki/static/freeze/js/magiclinks.1b12c219.chunk.js
+backup-1  |   🎨 Обработан JS: https://yastatic.net/s3/cloud/wiki/static/freeze/js/magiclinks.1b12c219.chunk.js
+backup-1  |   ✅ Сохранен: magiclinks.1b12c219.chunk.js
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/index.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 4, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 4
+backup-1  | 
+backup-1  | 📄 Обрабатывается (52/1000): https://wiki.yandex.ru/homepage/631bb28c22ea/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje65vk8u9i3g8cianjg -> ../../../assets/2b6636892e.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje65vk8u9i3g8cianjg -> ../../../assets/2b6636892e.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/631bb28c22ea/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 1, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (53/1000): https://wiki.yandex.ru/homepage/634501725710/
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/634501725710/index.html
+backup-1  |   📊 Ассетов: 72, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (54/1000): https://wiki.yandex.ru/homepage/9d6d96b83643/lending/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Изображение: /homepage/9d6d96b83643/lending/.files/image.png -> https://wiki.yandex.ru/homepage/9d6d96b83643/lending/.files/image.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/9d6d96b83643/lending/.files/image.png -> ../../../../assets/8f12d7fae5.png
+backup-1  |   🖼️  Изображение: /homepage/9d6d96b83643/lending/.files/image-1.png -> https://wiki.yandex.ru/homepage/9d6d96b83643/lending/.files/image-1.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/9d6d96b83643/lending/.files/image-1.png -> ../../../../assets/aa8e0f3700.png
+backup-1  |   🖼️  Изображение: /homepage/9d6d96b83643/lending/.files/image-2.png -> https://wiki.yandex.ru/homepage/9d6d96b83643/lending/.files/image-2.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/9d6d96b83643/lending/.files/image-2.png -> ../../../../assets/d1035cf237.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/9d6d96b83643/lending/index.html
+backup-1  |   📊 Ассетов: 81, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (55/1000): https://wiki.yandex.ru/homepage/9d6d96b83643/texnicheskaja-chast/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/9d6d96b83643/texnicheskaja-chast/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (56/1000): https://wiki.yandex.ru/homepage/952ecb9ac5b6/analitika/
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/952ecb9ac5b6/analitika/index.html
+backup-1  |   📊 Ассетов: 72, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (57/1000): https://wiki.yandex.ru/homepage/634501725710/rukovodstvo-polzovatelja/
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/634501725710/rukovodstvo-polzovatelja/index.html
+backup-1  |   📊 Ассетов: 74, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (58/1000): https://wiki.yandex.ru/homepage/634501725710/dokumentacija-dlja-dizajjnerov/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/634501725710/dokumentacija-dlja-dizajjnerov/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 2, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 2
+backup-1  | 
+backup-1  | 📄 Обрабатывается (59/1000): https://wiki.yandex.ru/homepage/634501725710/sod-staroe/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/634501725710/sod-staroe/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (60/1000): https://wiki.yandex.ru/homepage/634501725710/project-docs-screen/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/634501725710/project-docs-screen/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (61/1000): https://wiki.yandex.ru/homepage/vstrechi/vnutrennie/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/vstrechi/vnutrennie/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (62/1000): https://wiki.yandex.ru/homepage/631bb28c22ea/design-system/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje65vk8u9i3g8cianjg -> ../../../../assets/2b6636892e.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje65vk8u9i3g8cianjg -> ../../../../assets/2b6636892e.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/631bb28c22ea/design-system/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (63/1000): https://wiki.yandex.ru/homepage/programma-userdie/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   📥 Загружается: https://storage.yandexcloud.net/console-static/illustrations-v2/generic/generic/not-found/l/light.svg
+backup-1  |   ✅ Сохранен: e819720b74.svg
+backup-1  |   🖼️  Путь к изображению обновлен: https://storage.yandexcloud.net/console-static/illustrations-v2/generic/generic/not-found/l/light.svg -> ../../../assets/e819720b74.svg
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/programma-userdie/index.html
+backup-1  |   📊 Ассетов: 76, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (64/1000): https://wiki.yandex.ru/homepage/programma-userdie/celi-i-zadachi/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/programma-userdie/celi-i-zadachi/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 14, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 14
+backup-1  | 
+backup-1  | 📄 Обрабатывается (65/1000): https://wiki.yandex.ru/homepage/struktura-proektov/terminy-standarty-i-svjazannye-dokumenty/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/terminy-standarty-i-svjazannye-dokumenty/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 11, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 11
+backup-1  | 
+backup-1  | 📄 Обрабатывается (66/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 22, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 22
+backup-1  | 
+backup-1  | 📄 Обрабатывается (67/1000): https://wiki.yandex.ru/homepage/struktura-proektov/celi-i-zadachi/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/celi-i-zadachi/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 9, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 9
+backup-1  | 
+backup-1  | 📄 Обрабатывается (68/1000): https://wiki.yandex.ru/homepage/struktura-proektov/ogranichenija-i-dopushhenija/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/ogranichenija-i-dopushhenija/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 8, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 8
+backup-1  | 
+backup-1  | 📄 Обрабатывается (69/1000): https://wiki.yandex.ru/homepage/struktura-proektov/obem-programmy/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/obem-programmy/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 7, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 7
+backup-1  | 
+backup-1  | 📄 Обрабатывается (70/1000): https://wiki.yandex.ru/homepage/struktura-proektov/6.-plan-programmy-po-vexam-soderzhanie-rezultaty-s/
+backup-1  |   ❌ Ошибка при обработке https://wiki.yandex.ru/homepage/struktura-proektov/6.-plan-programmy-po-vexam-soderzhanie-rezultaty-s/: [Errno 17] File exists: 'output/wiki.yandex.ru/homepage/struktura-proektov/6.-plan-programmy-po-vexam-soderzhanie-rezultaty-s'
+backup-1  | 
+backup-1  | 📄 Обрабатывается (70/1000): https://wiki.yandex.ru/homepage/struktura-proektov/7.-riski/
+backup-1  |   ❌ Ошибка при обработке https://wiki.yandex.ru/homepage/struktura-proektov/7.-riski/: [Errno 17] File exists: 'output/wiki.yandex.ru/homepage/struktura-proektov/7.-riski'
+backup-1  | 
+backup-1  | 📄 Обрабатывается (70/1000): https://wiki.yandex.ru/homepage/struktura-proektov/7.-upravlenie-izmenenijami/
+backup-1  |   ❌ Ошибка при обработке https://wiki.yandex.ru/homepage/struktura-proektov/7.-upravlenie-izmenenijami/: [Errno 17] File exists: 'output/wiki.yandex.ru/homepage/struktura-proektov/7.-upravlenie-izmenenijami'
+backup-1  | 
+backup-1  | 📄 Обрабатывается (70/1000): https://wiki.yandex.ru/homepage/struktura-proektov/9.-organizacionnaja-struktura-programmy/
+backup-1  |   ❌ Ошибка при обработке https://wiki.yandex.ru/homepage/struktura-proektov/9.-organizacionnaja-struktura-programmy/: [Errno 17] File exists: 'output/wiki.yandex.ru/homepage/struktura-proektov/9.-organizacionnaja-struktura-programmy'
+backup-1  | 
+backup-1  | 📄 Обрабатывается (70/1000): https://wiki.yandex.ru/homepage/struktura-proektov/10.-matrica-raspredelenija-otvetstvennosti/
+backup-1  |   ❌ Ошибка при обработке https://wiki.yandex.ru/homepage/struktura-proektov/10.-matrica-raspredelenija-otvetstvennosti/: [Errno 17] File exists: 'output/wiki.yandex.ru/homepage/struktura-proektov/10.-matrica-raspredelenija-otvetstvennosti'
+backup-1  | 
+backup-1  | 📄 Обрабатывается (70/1000): https://wiki.yandex.ru/homepage/struktura-proektov/11.-plan-upravlenija-kommunikacijami-programmy/
+backup-1  |   ❌ Ошибка при обработке https://wiki.yandex.ru/homepage/struktura-proektov/11.-plan-upravlenija-kommunikacijami-programmy/: [Errno 17] File exists: 'output/wiki.yandex.ru/homepage/struktura-proektov/11.-plan-upravlenija-kommunikacijami-programmy'
+backup-1  | 
+backup-1  | 📄 Обрабатывается (70/1000): https://wiki.yandex.ru/homepage/struktura-proektov/12.-reguljarnyjj-otchet-o-xode-i-rezultatax-progra/
+backup-1  |   ❌ Ошибка при обработке https://wiki.yandex.ru/homepage/struktura-proektov/12.-reguljarnyjj-otchet-o-xode-i-rezultatax-progra/: [Errno 17] File exists: 'output/wiki.yandex.ru/homepage/struktura-proektov/12.-reguljarnyjj-otchet-o-xode-i-rezultatax-progra'
+backup-1  | 
+backup-1  | 📄 Обрабатывается (70/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/jadro-platformy
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image.png
+backup-1  |   ✅ Сохранен: aec593ac17.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image.png -> ../../../../assets/aec593ac17.png
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image-1.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image-1.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image-1.png
+backup-1  |   ✅ Сохранен: bedae212c6.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image-1.png -> ../../../../assets/bedae212c6.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/jadro-platformy.html
+backup-1  |   📊 Ассетов: 80, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (71/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-stroitelstvo
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-stroitelstvo.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (72/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-jekspluatacija
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-jekspluatacija.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (73/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/12.-ficha-arxiv
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/12.-ficha-arxiv
+backup-1  |   📊 Ассетов: 77, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (74/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/lichnyjj-kabinet
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/lichnyjj-kabinet/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/lichnyjj-kabinet/.files/image.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/lichnyjj-kabinet/.files/image.png
+backup-1  |   ✅ Сохранен: e635bf46f4.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/lichnyjj-kabinet/.files/image.png -> ../../../../assets/e635bf46f4.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/lichnyjj-kabinet.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (75/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proektami
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proektami/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proektami/.files/image.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proektami/.files/image.png
+backup-1  |   ✅ Сохранен: 5de15a536a.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proektami/.files/image.png -> ../../../../assets/5de15a536a.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proektami.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (76/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proizvodstvom
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proizvodstvom/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proizvodstvom/.files/image.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proizvodstvom/.files/image.png
+backup-1  |   ✅ Сохранен: a317674d80.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proizvodstvom/.files/image.png -> ../../../../assets/a317674d80.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proizvodstvom.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (77/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-biznes-process
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/modul-biznes-process/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-biznes-process/.files/image.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-biznes-process/.files/image.png
+backup-1  |   ✅ Сохранен: 4868f40934.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/modul-biznes-process/.files/image.png -> ../../../../assets/4868f40934.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-biznes-process.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (78/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-texnicheskijj-dokumentooborot
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/modul-texnicheskijj-dokumentooborot/.files/image-1.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-texnicheskijj-dokumentooborot/.files/image-1.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-texnicheskijj-dokumentooborot/.files/image-1.png
+backup-1  |   ✅ Сохранен: f3351abdcd.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/modul-texnicheskijj-dokumentooborot/.files/image-1.png -> ../../../../assets/f3351abdcd.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-texnicheskijj-dokumentooborot.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (79/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-integracii
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-integracii.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (80/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-inzhenernye-izyskanija
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-inzhenernye-izyskanija.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (81/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-proektirovanie
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/produkt-proektirovanie/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-proektirovanie/.files/image.png
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-proektirovanie/.files/image.png
+backup-1  |   ✅ Сохранен: d867379cec.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/produkt-proektirovanie/.files/image.png -> ../../../../assets/d867379cec.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-proektirovanie.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 13, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 13
+backup-1  | 
+backup-1  | 📄 Обрабатывается (82/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/mvp/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Изображение: /homepage/onbording-chlenov-komandy/mvp/.files/image.png -> https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/mvp/.files/image.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/onbording-chlenov-komandy/mvp/.files/image.png -> ../../../../assets/cc0c89c59f.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy/mvp/index.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 4, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 4
+backup-1  | 
+backup-1  | 📄 Обрабатывается (83/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/produkt-proektirovanie/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy/produkt-proektirovanie/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 3, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 3
+backup-1  | 
+backup-1  | 📄 Обрабатывается (84/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/platforma/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy/platforma/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 2, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 2
+backup-1  | 
+backup-1  | 📄 Обрабатывается (85/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/processy/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy/processy/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 1, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (86/1000): https://wiki.yandex.ru/homepage/onbording-chlenov-komandy/dokumentacija-dlja-razrabotchikov/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/onbording-chlenov-komandy/dokumentacija-dlja-razrabotchikov/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (87/1000): https://wiki.yandex.ru/homepage/processy/doski-proekta/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajen47g03gpg3oe05vot -> ../../../../assets/e862d407b1.bin
+backup-1  |   🖼️  Изображение: /homepage/processy/doski-proekta/.files/12313.jpeg -> https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/processy/doski-proekta/.files/12313.jpeg -> ../../../../assets/c2b41e34b0.jpeg
+backup-1  |   🖼️  Изображение: /homepage/processy/doski-proekta/.files/12313-1.jpeg -> https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-1.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/processy/doski-proekta/.files/12313-1.jpeg -> ../../../../assets/f0a00d6bfd.jpeg
+backup-1  |   🖼️  Изображение: /homepage/processy/doski-proekta/.files/12313-5.jpeg -> https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-5.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/processy/doski-proekta/.files/12313-5.jpeg -> ../../../../assets/1b154beee6.jpeg
+backup-1  |   🖼️  Изображение: /homepage/processy/doski-proekta/.files/12313-3.jpeg -> https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-3.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/processy/doski-proekta/.files/12313-3.jpeg -> ../../../../assets/aa8b15b7c6.jpeg
+backup-1  |   🖼️  Изображение: /homepage/processy/doski-proekta/.files/12313-4.jpeg -> https://wiki.yandex.ru/homepage/processy/doski-proekta/.files/12313-4.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/processy/doski-proekta/.files/12313-4.jpeg -> ../../../../assets/2d540f0fe9.jpeg
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/processy/doski-proekta/index.html
+backup-1  |   📊 Ассетов: 83, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (88/1000): https://wiki.yandex.ru/homepage/952ecb9ac5b6/analitika/texnicheskoe-zadanie/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/952ecb9ac5b6/analitika/texnicheskoe-zadanie/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 3, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 3
+backup-1  | 
+backup-1  | 📄 Обрабатывается (89/1000): https://wiki.yandex.ru/users/pavel-s-sozonov/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajel1eeiou6t9ektq8oe -> ../../../assets/8182be8dd4.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajel1eeiou6t9ektq8oe -> ../../../assets/8182be8dd4.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/users/pavel-s-sozonov/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 1, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (90/1000): https://wiki.yandex.ru/users/battalova-design/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje65vk8u9i3g8cianjg -> ../../../assets/2b6636892e.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/users/battalova-design/index.html
+backup-1  |   📊 Ассетов: 76, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (91/1000): https://wiki.yandex.ru/homepage/programma-userdie/celi-i-zadachi?noredirect
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://storage.yandexcloud.net/console-static/illustrations-v2/generic/generic/not-found/l/light.svg -> ../../../assets/e819720b74.svg
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/programma-userdie/celi-i-zadachi.html
+backup-1  |   📊 Ассетов: 76, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (92/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/jadro-platformy/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image.png -> ../../../../../assets/aec593ac17.png
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image-1.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image-1.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/jadro-platformy/.files/image-1.png -> ../../../../../assets/bedae212c6.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/jadro-platformy/index.html
+backup-1  |   📊 Ассетов: 80, Ссылок: 11, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 11
+backup-1  | 
+backup-1  | 📄 Обрабатывается (93/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/lichnyjj-kabinet/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/lichnyjj-kabinet/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/lichnyjj-kabinet/.files/image.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/lichnyjj-kabinet/.files/image.png -> ../../../../../assets/e635bf46f4.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/lichnyjj-kabinet/index.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 10, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 10
+backup-1  | 
+backup-1  | 📄 Обрабатывается (94/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proektami/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proektami/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proektami/.files/image.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proektami/.files/image.png -> ../../../../../assets/5de15a536a.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proektami/index.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 9, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 9
+backup-1  | 
+backup-1  | 📄 Обрабатывается (95/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proizvodstvom/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proizvodstvom/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proizvodstvom/.files/image.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proizvodstvom/.files/image.png -> ../../../../../assets/a317674d80.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-upravlenie-proizvodstvom/index.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 8, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 8
+backup-1  | 
+backup-1  | 📄 Обрабатывается (96/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-biznes-process/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/modul-biznes-process/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-biznes-process/.files/image.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/modul-biznes-process/.files/image.png -> ../../../../../assets/4868f40934.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-biznes-process/index.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 7, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 7
+backup-1  | 
+backup-1  | 📄 Обрабатывается (97/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-texnicheskijj-dokumentooborot/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/modul-texnicheskijj-dokumentooborot/.files/image-1.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-texnicheskijj-dokumentooborot/.files/image-1.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/modul-texnicheskijj-dokumentooborot/.files/image-1.png -> ../../../../../assets/f3351abdcd.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-texnicheskijj-dokumentooborot/index.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 6, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 6
+backup-1  | 
+backup-1  | 📄 Обрабатывается (98/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-integracii/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/modul-integracii/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 5, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 5
+backup-1  | 
+backup-1  | 📄 Обрабатывается (99/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-inzhenernye-izyskanija/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-inzhenernye-izyskanija/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 4, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 4
+backup-1  | 
+backup-1  | 📄 Обрабатывается (100/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-proektirovanie/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Изображение: /homepage/struktura-proektov/funkcional-platformy/produkt-proektirovanie/.files/image.png -> https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-proektirovanie/.files/image.png
+backup-1  |   🖼️  Путь к изображению обновлен: /homepage/struktura-proektov/funkcional-platformy/produkt-proektirovanie/.files/image.png -> ../../../../../assets/d867379cec.png
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-proektirovanie/index.html
+backup-1  |   📊 Ассетов: 79, Ссылок: 3, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 3
+backup-1  | 
+backup-1  | 📄 Обрабатывается (101/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-stroitelstvo/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-stroitelstvo/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 2, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 2
+backup-1  | 
+backup-1  | 📄 Обрабатывается (102/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-jekspluatacija/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/aje1142gmkje0kn68k9b -> ../../../../../assets/3661850037.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/produkt-jekspluatacija/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 1, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (103/1000): https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/12.-ficha-arxiv/
+backup-1  |   ❌ Ошибка при обработке https://wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/12.-ficha-arxiv/: [Errno 17] File exists: 'output/wiki.yandex.ru/homepage/struktura-proektov/funkcional-platformy/12.-ficha-arxiv'
+backup-1  | 
+backup-1  | 📄 Обрабатывается (103/1000): https://wiki.yandex.ru/homepage/952ecb9ac5b6/analitika/plan-analitiki/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/952ecb9ac5b6/analitika/plan-analitiki/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 2, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 2
+backup-1  | 
+backup-1  | 📄 Обрабатывается (104/1000): https://wiki.yandex.ru/homepage/952ecb9ac5b6/analitika/proektirovanie-mikroservisov/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   📥 Загружается: https://wiki.yandex.ru/.avatar/ajeflgtgfve0c0gjckbr
+backup-1  |   ✅ Сохранен: e2b08bc4af.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajeflgtgfve0c0gjckbr -> ../../../../../assets/e2b08bc4af.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/ajeflgtgfve0c0gjckbr -> ../../../../../assets/e2b08bc4af.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/952ecb9ac5b6/analitika/proektirovanie-mikroservisov/index.html
+backup-1  |   📊 Ассетов: 78, Ссылок: 1, JS исправлений: 1
+backup-1  |   🔗 Найдено новых ссылок: 1
+backup-1  | 
+backup-1  | 📄 Обрабатывается (105/1000): https://wiki.yandex.ru/homepage/952ecb9ac5b6/analitika/shablony/
+backup-1  |   🖼️  Путь к изображению обновлен: https://avatars.mds.yandex.net/get-yapic/48449/6ZtQJ8hoG3HgBoaiYSuSNsHbjE-1/islands-middle -> ../../../../../assets/ba0f119227.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: /.avatar/null -> ../../../../../assets/feab0ca12d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/42770554 -> ../../../../../assets/3d4905fa4d.bin
+backup-1  |   🖼️  Путь к изображению обновлен: https://mc.yandex.ru/watch/51465824 -> ../../../../../assets/34755b03f7.bin
+backup-1  |   📥 Загружается: https://mc.yandex.ru
+backup-1  |   ❌ Не удалось загрузить https://mc.yandex.ru: HTTP 404
+backup-1  |   ✅ Сохранено: output/wiki.yandex.ru/homepage/952ecb9ac5b6/analitika/shablony/index.html
+backup-1  |   📊 Ассетов: 77, Ссылок: 0, JS исправлений: 1
+backup-1  | 
+backup-1  | 🎉 Обход завершен!
+backup-1  | 📊 Статистика:
+backup-1  |   • Обработано страниц: 105
+backup-1  |   • Найдено ассетов: 153
+backup-1  |   • Всего посещено URL: 113
+backup-1  | 🔚 Браузер закрыт

@@ -1,0 +1,22 @@
+# Базовый образ с Playwright
+FROM python:3.11-slim
+
+# Устанавливаем системные зависимости
+RUN apt-get update && apt-get install -y \
+    wget \
+    gnupg \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+# Устанавливаем общие Python пакеты
+RUN pip install --no-cache-dir \
+    playwright==1.40.0 \
+    beautifulsoup4==4.12.2 \
+    python-dotenv==1.0.0
+
+# Устанавливаем Playwright browsers
+RUN playwright install --with-deps
+
+# Создаем базовый образ
+CMD ["python"] 

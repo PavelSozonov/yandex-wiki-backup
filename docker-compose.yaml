@@ -1,0 +1,17 @@
+services:
+  backup:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./output:/app/output
+      - ./src:/app/src:ro  # монтируем исходный код
+    command: ["python", "-m", "src.backup"]
+
+  viewer:
+    image: nginx:alpine
+    volumes:
+      - ./output:/usr/share/nginx/html:ro
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - "8080:80"

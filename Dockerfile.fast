@@ -1,0 +1,13 @@
+# Быстрый Dockerfile использующий базовый образ
+FROM yandex-wiki-backup:base
+
+WORKDIR /app
+
+# Копируем только requirements.txt и устанавливаем дополнительные зависимости
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Копируем исходный код (или монтируем как volume)
+COPY . .
+
+CMD ["python", "-m", "src.backup"] 
