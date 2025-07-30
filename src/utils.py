@@ -50,17 +50,10 @@ def url_to_local_path(url: str, output_dir: Path, is_page: bool = False) -> Path
             path = path.rstrip('/') + '/index.html'
     
     # Строим полный путь
-    if path.startswith('/'):
-        path = path[1:]  # убираем ведущий слеш
-    
-    # Очищаем компоненты пути
     path_parts = [sanitize_filename(part) for part in path.split('/') if part]
     
     # Создаем финальный путь
-    if domain:
-        local_path = output_dir / domain / Path(*path_parts) if path_parts else output_dir / domain / 'index.html'
-    else:
-        local_path = output_dir / Path(*path_parts) if path_parts else output_dir / 'index.html'
+    local_path = output_dir / Path(*path_parts) if path_parts else output_dir / 'index.html'
     
     return local_path
 

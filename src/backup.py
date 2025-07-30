@@ -182,39 +182,23 @@ class WikiCrawler:
         
         # Безопасная обработка - только основные замены
         patterns = [
-            # Исправляем f.p в runtime.js - оставляем trailing slash
+            # Set public path with trailing slash
             (r'f\.p\s*=\s*[\'"]/assets/?[\'"]', 'f.p="/assets/"'),
-            
-            # Исправляем f.u в runtime.js - убираем /assets/ prefix только в функции f.u чтобы избежать двойных путей
-            (r'(f\.u=e=>[^}]*)"/assets/([^"]+\.(js|css))"', r'\1"\2"'),
-            
-            # Исправляем дополнительные /assets/ префиксы в f.u функции  
-            (r'(\?.*?":)"\/assets\/([^"]+)"', r'\1"\2"'),
-            
-            # publicPath - исправляем динамически генерируемый путь
+            # Remove /assets/ prefix from chunk filenames (js/css)
+            (r'[\'"]/assets/([^\'\"]+\.(?:js|css))[\'"]', r'"\1"'),
+            # Remove /assets/ prefix from any other asset references
+            (r'[\'"]/assets/([^\'\"]+)[\'"]', r'"\1"'),
+            # publicPath - dynamic
             (r'f\.p\s*=\s*e\s*\+\s*[\'"]\.\.\/[\'"]', 'f.p="/assets/"'),
-            
-            # publicPath - только точные совпадения
-            (r'f\.p\s*=\s*[\'"][^\'\"]*yastatic\.net/s3/cloud/(?:wiki|auth)/static/freeze/[\'"];',
-             'f.p="/assets/";'),
-            
-            # __webpack_public_path__ - только точные совпадения
-            (r'__webpack_public_path__\s*=\s*[\'"]https://yastatic\.net/s3/cloud/(?:wiki|auth)/static/freeze/[\'"]',
-             '__webpack_public_path__="/assets/"'),
-            
-            # Исправляем пути к чанкам - убираем относительные пути js/ и css/
-            (r'[\'"]js\/[\'"]', '""'),
-            (r'[\'"]css\/[\'"]', '""'),
-            
-            # Исправляем CSS chunk пути в runtime.js - заменяем css/ на пустую строку
-            (r'[\'"]css\/([^\/\'\"]+\.css)[\'"]', r'"\1"'),
-            
-            # Исправляем JS chunk пути в runtime.js - заменяем js/ на пустую строку
-            (r'[\'"]js\/([^\/\'\"]+\.js)[\'"]', r'"\1"'),
-            
-            # Только URL в строках - более безопасно
-            (r'[\'"]https://yastatic\.net/s3/cloud/(?:wiki|auth)/static/freeze/',
-             '"/assets/'),
+            # publicPath - exact
+            (r'f\.p\s*=\s*[\'"][^\'\"]*yastatic\.net/s3/cloud/(?:wiki|auth)/static/freeze/[\'"];', 'f.p="/assets/";'),
+            # __webpack_public_path__ - exact
+            (r'__webpack_public_path__\s*=\s*[\'"]https://yastatic\.net/s3/cloud/(?:wiki|auth)/static/freeze/[\'"]', '__webpack_public_path__="/assets/"'),
+            # Remove js/ and css/ prefixes from chunk paths
+            (r'[\'"]js\/([^\'\"]+\.js)[\'"]', r'"\1"'),
+            (r'[\'"]css\/([^\'\"]+\.css)[\'"]', r'"\1"'),
+            # Replace yastatic URLs with /assets/
+            (r'[\'"]https://yastatic\.net/s3/cloud/(?:wiki|auth)/static/freeze/', '"/assets/'),
         ]
         
         for pattern, replacement in patterns:
@@ -339,6 +323,13 @@ class WikiCrawler:
                                 print(f"  ❌ Внешнее изображение пропущено: {full}")
                             continue
                             
+                        # For images, always rewrite to /assets/<hash>.<ext>
+                        if tag_name == 'img' and self.is_internal(full):
+                            asset = self.download_asset(full)
+                            if asset:
+                                element[attr] = '/assets/' + asset.name
+                                continue
+                        # For scripts and links, keep existing logic
                         asset = self.download_asset(full)
                         if asset:
                             # Для CSS/JS файлов от yastatic используем абсолютные пути  
@@ -372,15 +363,23 @@ class WikiCrawler:
                     if self.is_wiki_page(full) and full not in self.visited:
                         new_links.append(full)
                         target = utils.url_to_local_path(full, self.output_dir, is_page=True)
-                        # Используем абсолютные пути от корня сервера для wiki страниц
                         relative_to_output = os.path.relpath(target, self.output_dir)
-                        element['href'] = "/" + relative_to_output.replace(os.sep, "/")
+                        # Always add /index.html for wiki pages
+                        if not relative_to_output.endswith('index.html'):
+                            relative_to_output = relative_to_output.rstrip('/') + '/index.html'
+                        if relative_to_output.startswith('wiki.yandex.ru/'):
+                            relative_to_output = relative_to_output[len('wiki.yandex.ru/'):]
+                        # Pretty URL: strip /index.html from the end
+                        if relative_to_output.endswith('/index.html'):
+                            relative_to_output = relative_to_output[:-len('/index.html')]
+                        element['href'] = '/' + relative_to_output.replace(os.sep, '/')
                         link_count += 1
                     elif self.is_internal(full):
-                        # Для внутренних ресурсов, но не wiki страниц
                         target = utils.url_to_local_path(full, self.output_dir)
                         relative_to_output = os.path.relpath(target, self.output_dir)
-                        element['href'] = "/" + relative_to_output.replace(os.sep, "/")
+                        if relative_to_output.startswith('wiki.yandex.ru/'):
+                            relative_to_output = relative_to_output[len('wiki.yandex.ru/'):]
+                        element['href'] = '/' + relative_to_output.replace(os.sep, '/')
 
                 # Исправляем JavaScript пути
                 js_fixes = 0
@@ -425,9 +424,10 @@ class WikiCrawler:
                         
                         # Исправляем JSON данные с путями wiki в embedded JavaScript
                         if '"wikiPath":' in content:
-                            # Исправляем пути типа "/homepage" на "/wiki.yandex.ru/homepage" в JSON данных
-                            content = re.sub(r'"/homepage([^"]*)"', r'"/wiki.yandex.ru/homepage\1"', content)
-                            print(f"  🔗 Исправлены JSON пути в скрипте")
+                            # Remove /wiki.yandex.ru/ from JSON navigation paths and add /index.html, then strip /index.html for pretty URLs
+                            content = re.sub(r'"/wiki\.yandex\.ru/([^"*?)(?<!index\.html)"', lambda m: f'"/{m.group(1).rstrip("/")}/index.html"', content)
+                            content = re.sub(r'/index\.html"', '"', content)
+                            print(f"  🔗 Исправлены JSON пути в скрипте (pretty URLs)")
                         
                         # Если контент изменился, обновляем скрипт
                         if content != original_content:
